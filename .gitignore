@@ -1,0 +1,25 @@
+# 忽略 Visual Studio 的临时文件
+.vs/
+x64/
+Debug/
+Release/
+*.iobj
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.idb
+*.suo
+*.user
+
+# 忽略 Qt 的临时文件
+GeneratedFiles/
+*.qrc_*.cpp
+ui_*.h
+
+# 忽略 OpenCv 的大文件 (如果是你自己放进去的)
+*.dll
+*.lib
+*.onnx

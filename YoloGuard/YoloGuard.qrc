@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/YoloGuard"/>
+    <qresource prefix="/">
+        <file>Resources/logo.png</file>
+        <file>Resources/login.png</file>
+        <file>Resources/register.png</file>
+        <file>Resources/user.png</file>
+        <file>Resources/lock.png</file>
+        <file>Resources/ciphertext.png</file>
+        <file>Resources/plaintext.png</file>
+        <file>Resources/monitor.png</file>
+        <file>Resources/settings.png</file>
+        <file>Resources/history.png</file>
+    </qresource>
+</RCC>
